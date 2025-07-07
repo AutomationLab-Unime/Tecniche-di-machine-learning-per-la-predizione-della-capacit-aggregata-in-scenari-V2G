@@ -3,7 +3,7 @@
 LA 2.13
 
 Realizzazione di modelli interpretabili basati su tecniche di Machine 
-learning per la predizione della capacità aggregata fornita da veicoli 
+learning ****per la predizione della capacità aggregata fornita da veicoli 
 elettrici a supporto delle esigenze della rete elettrica
 
 Responsabile Linea di Attività
