@@ -1,11 +1,15 @@
 ![Project_Funding_Logo](https://github.com/user-attachments/assets/767fa159-4f61-4f93-aa0d-682375f72f59)
+
 LA 2.13
+
 Realizzazione di modelli interpretabili basati su tecniche di Machine 
 learning per la predizione della capacità aggregata fornita da veicoli 
 elettrici a supporto delle esigenze della rete elettrica
+
 Responsabile Linea di Attività
 Prof. Luca Patanè
 Università degli Studi di Messina (UniME)
+
 Titolo 
 RT-1.02-2.13-1
 Analisi ed implementazione di tecniche di machine learning per la 
