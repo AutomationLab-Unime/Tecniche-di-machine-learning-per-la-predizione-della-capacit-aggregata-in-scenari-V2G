@@ -1,3 +1,5 @@
+![Project_Funding_Logo](https://github.com/user-attachments/assets/767fa159-4f61-4f93-aa0d-682375f72f59)
+
 Tecniche di machine learning per la predizione della capacit aggregata in scenari V2G
 
 README - V2G Modeling Framework GUI
